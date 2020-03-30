@@ -30,7 +30,7 @@ request(options,
         token_security = array_access_token[1].replace('"', '');
         token_security2 = token_security.replace('"', '');
 
-        //console.log(token_security);
+        console.log(token_security2);
         //console.log('Success: ', body);
 
         //ENROLLMENT
